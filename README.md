@@ -1,5 +1,7 @@
 `for ext in docx docm dot dotm pptx pptm xls xlsm exe ps1 7z zip rar; do dd if=/dev/random of=random_data.$ext bs=512KB count=1; done`
 
+[repo as zip](https://github.com/coldy28/Random-Data-Set/archive/refs/heads/master.zip)
+
 [7z](https://github.com/coldy28/Random-Data-Set/raw/master/random_data.7z)
 
 [docm](https://github.com/coldy28/Random-Data-Set/raw/master/random_data.docm)
