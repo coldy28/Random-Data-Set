@@ -23,7 +23,14 @@
 
 [docx](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc1.docx)\
 [docm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc1.docm)\
-[pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007.pptm)\
-[pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010.pptm)\
+[pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007-1.pptm)\
+[pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010-1.pptm)\
 [xlsx](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls1.xlsx)\
 [xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls1.xlsm)
+
+### Sketchy
+
+[docm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc2.docm)\
+[pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007-2.pptm)\
+[pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010-2.pptm)\
+[xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls2.xlsm)
