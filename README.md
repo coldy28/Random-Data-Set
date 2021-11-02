@@ -26,7 +26,8 @@
 [pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007-1.pptm)\
 [pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010-1.pptm)\
 [xlsx](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls1.xlsx)\
-[xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls1.xlsm)
+[xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls1.xlsm)\
+[exe](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/sample.exe)
 
 ### Sketchy
 
