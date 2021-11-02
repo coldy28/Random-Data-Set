@@ -30,7 +30,7 @@
 
 ### Sketchy
 
-[docm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc2.docm)\
-[pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007-2.pptm)\
-[pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010-2.pptm)\
-[xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Xls2.xlsm)
+[docm](https://github.com/coldy28/Random-Data-Set/raw/master/Sketchy/Doc2.docm)\
+[pptm 2007](https://github.com/coldy28/Random-Data-Set/raw/master/Sketchy/PowerPoint2007-2.pptm)\
+[pptm 2010](https://github.com/coldy28/Random-Data-Set/raw/master/Sketchy/PowerPoint2010-2.pptm)\
+[xlsm](https://github.com/coldy28/Random-Data-Set/raw/master/Sketchy/Xls2.xlsm)
