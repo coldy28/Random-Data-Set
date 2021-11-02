@@ -21,6 +21,7 @@
 
 ### Benign
 
+[docx](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc1.docx)\
 [docm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/Doc1.docm)\
 [pptm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2007.pptm)\
 [pptm](https://github.com/coldy28/Random-Data-Set/raw/master/Benign/PowerPoint2010.pptm)\
